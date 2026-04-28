@@ -1,4 +1,7 @@
-# Open League Manager
+
+<p align="center">
+	<img src="../Game-Banner.png" alt="Open League Manager banner" />
+</p>
 
 Esports team management for League of Legends — lead your team from regional leagues to world championships.
 
